@@ -1,0 +1,6 @@
+name: strategawkaItems
+version: ${project.version}
+main: me.b1vth420.strategawkaItems.Main
+api-version: 1.13
+depend:
+  - strategawkaApi

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Strategawka_v2.iml" filepath="$PROJECT_DIR$/Strategawka_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategawkaApi/strategawkaApi.iml" filepath="$PROJECT_DIR$/strategawkaApi/strategawkaApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategawkaFrakcje/strategawkaFrakcje.iml" filepath="$PROJECT_DIR$/strategawkaFrakcje/strategawkaFrakcje.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategawkaItems/strategawkaItems.iml" filepath="$PROJECT_DIR$/strategawkaItems/strategawkaItems.iml" />
+    </modules>
+  </component>
+</project>

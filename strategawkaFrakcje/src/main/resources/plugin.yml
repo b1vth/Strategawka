@@ -1,0 +1,5 @@
+name: strategawkaFrakcje
+version: ${project.version}
+main: me.b1vth420.strategawkaFrakcje.Main
+api-version: 1.13
+depend: [strategawkaApi]

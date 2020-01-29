@@ -1,0 +1,130 @@
+items:
+  epicki_miecz:
+    item: diamond_sword
+    time: '24h'
+    permission: "strategakwaItems.miecz_fechmistrza"
+    unlockCost: diamond 64
+    upgrades:
+      1:
+        enchant:
+          - sharpness 10
+        items:
+          - diamond 576
+        permission: "strategakwaItems.miecz_fechmistrza"
+        unlockCost: diamond 64
+    enchant:
+      - sharpness 6
+    name: '&6Miecz fechmistrza'
+    lore:
+      - '&aPoteżny miecz (lvl 1)'
+    items:
+      - diamond_block 2 0
+      - stick 1 0
+
+  miecz_plomieni:
+    item: diamond_sword
+    time: '24h'
+    permission: "strategakwaItems.miecz_plomieni"
+    unlockCost: diamond 64
+    upgrades:
+      1:
+        enchant:
+          - sharpness 10
+        items:
+          - diamond 576
+        permission: "strategakwaItems.miecz_fechmistrza"
+        unlockCost: diamond 64
+    enchant:
+      - fireaspect 3
+    name: '&cMiecz plomieni'
+    lore:
+      - '&aMiecz z fire aspect!'
+    items:
+      - diamond_block 1 0
+      - stick 1 0
+      - blaze_rod 1 0
+
+  boski_miecz:
+    item: diamond_sword
+    time: '168h'
+    permission: "strategakwaItems.boski_miecz"
+    unlockCost: diamond 192
+    upgrades:
+      1:
+        enchant:
+          - sharpness 10
+        items:
+          - diamond 576
+        permission: "strategakwaItems.miecz_fechmistrza"
+        unlockCost: diamond 64
+    enchant:
+      - sharpness 10
+    name: '&cMiecz plomieni'
+    lore:
+      - '&aMiecz z fire aspect!'
+    items:
+      - nether_star 9 0
+
+  krasnoludzka zbroja:
+    item: diamond_chestplate
+    time: '24h'
+    permission: "strategakwaItems.krasnoludzka_zbroja"
+    unlockCost: diamond 64
+    upgrades:
+      1:
+        enchant:
+          - sharpness 10
+        items:
+          - diamond 576
+        permission: "strategakwaItems.krasnoludzka_zbroja_1"
+        unlockCost: diamond 64
+    enchant:
+      - protection 5
+    name: '&cMiecz plomieni'
+    lore:
+      - '&aMiecz z fire aspect!'
+    items:
+      - diamond_block 9 0
+
+  kolczasta_ zbroja:
+    item: diamond_chestplate
+    time: '24h'
+    permission: "strategakwaItems.kolczasta_"
+    unlockCost: diamond 64
+    upgrades:
+      1:
+        enchant:
+          - sharpness 10
+        items:
+          - diamond 576
+        permission: "strategakwaItems.kolczasta_"
+        unlockCost: diamond 64
+    enchant:
+      - thorns 4
+    name: '&cMiecz plomieni'
+    lore:
+      - '&aMiecz z fire aspect!'
+    items:
+      - obsidian 16 0
+
+  witherowa_ zbroja:
+    item: diamond_chestplate
+    time: '24h'
+    permission: "strategakwaItems.kolczasta_"
+    unlockCost: diamond 64
+    upgrades:
+      1:
+        enchant:
+          - sharpness 10
+        items:
+          - diamond 576
+        permission: "strategakwaItems.kolczasta_"
+        unlockCost: diamond 64
+    enchant:
+      - protection 5
+    name: '&cMiecz plomieni'
+    lore:
+      - '&aMiecz z fire aspect!'
+    items:
+      - diamond_block 9 0
+
